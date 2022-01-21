@@ -1,1 +1,1 @@
-# Projeto01
+Projeto realizado em formato JavaScript simulando um desafio RPG
